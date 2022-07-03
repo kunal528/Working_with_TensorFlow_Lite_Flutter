@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:tensorflow/tensorflow.dart';
 
 void main() => runApp(MyApp());
 
